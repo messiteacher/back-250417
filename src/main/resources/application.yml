@@ -4,7 +4,7 @@ server:
 spring:
   data:
     redis:
-      port: 6379
+      port: 36379
 
   application:
     name: back-250417
